@@ -1,0 +1,12 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>myparentproject</artifactId>
+    <groupId>...</groupId>
+    <version>...</version>
+
+    <packaging>pom</packaging>
+    <modules>
+        <module>EEVEE-Kits</module>
+        <module>HttpManager</module>
+    </modules>
+</project>
