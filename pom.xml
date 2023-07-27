@@ -6,6 +6,7 @@
 
     <packaging>pom</packaging>
     <modules>
+        <module>EEVEE-Core</module>
         <module>EEVEE-Kits</module>
         <module>HttpManager</module>
     </modules>
