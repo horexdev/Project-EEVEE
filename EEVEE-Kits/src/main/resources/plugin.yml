@@ -1,0 +1,9 @@
+name: EEVEE-Kits
+version: '${project.version}'
+main: eevee.kits.EEVEE_Kits
+api-version: '1.20'
+
+commands:
+  test:
+    description: Test
+    usage: /test
