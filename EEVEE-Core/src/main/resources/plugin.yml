@@ -1,0 +1,9 @@
+name: EEVEE-Core
+version: '${project.version}'
+main: eevee.eeveecore.EEVEE_Core
+api-version: '1.20'
+
+commands:
+  Spawn:
+    description: Телепортирует на глобальный спавн
+    usage: /spawn
